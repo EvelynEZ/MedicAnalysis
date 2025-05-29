@@ -2,3 +2,4 @@ numpy
 statsmodels
 pyarrow
 pytest
+pyreadstat
